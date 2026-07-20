@@ -12,11 +12,10 @@ I'm a Computer Science Engineering student passionate about Java, Machine Learni
 
 ## Projects
 
-| No | Project                      |
-| -- | ---------------------------- |
-| 01 | SBank Stock Price Prediction |
-| 02 | Zomato Data Analysis         |
-
+| No | Project | Technologies |
+|----|---------|--------------|
+| 01 | [SBank Stock Price Prediction](./SBank_Stock_Price_Prediction) | Python, Pandas, NumPy, Scikit-learn |
+| 02 | [Zomato Data Analysis](./02_Zomato_Data_Analysis) | Python, Pandas, Matplotlib |
 ---
 
 ## Repository Structure
